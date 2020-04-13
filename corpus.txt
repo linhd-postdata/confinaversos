@@ -1,5 +1,5 @@
 autor: Mister Cumbia
-titulo: La Cumbia Del Coronavirus
+título: La Cumbia Del Coronavirus
 
 Y volvió el sabor con Mr. Cumbia
 Con la cumbia del coronavirus
@@ -64,7 +64,7 @@ Usen desinfectante eso es muy efectivo
 ---
 
 autor: Lucia Gil
-titulo: Volveremos a Brindar
+título: Volveremos a Brindar
 
 Días tristes, nos cuesta mucho estar muy solos
 Buscamos mil maneras de vencer la estupidez
@@ -109,7 +109,7 @@ Ya no habrá una pantalla entre los dos
 ---
 
 autor: Consejo de la Organización Mundial de la Salud
-titulo: Quédate en Casa
+título: Quédate en Casa
 
 Si no haces caso, ah
 Allá tú
@@ -312,8 +312,8 @@ será algo más sencillo
 
 ---
 
-autor: Un Canto a La Vida
-titulo: Vanesa Martín
+autor: Vanesa Martín
+título: Un Canto a La Vida
 
 Me despierto ante la vida
 Como el niño que camina
@@ -378,7 +378,7 @@ Ese canto a la vida
 ---
 
 autor: Alejandro Sanz
-titulo: # el mundo fuera
+título: # el mundo fuera
 
 Tú y yo en mi habitación,
 y el mundo fuera.
@@ -413,7 +413,7 @@ nos besemos con la fuerza del corazón.
 Tú y yo en mi habitación,
 
 autor: Joe Crespúsculo
-titulo: Cuarentena sin ti
+título: Cuarentena sin ti
 texto:
 Las calles hoy están desiertas
 Y yo por dentro también desierto
@@ -444,7 +444,7 @@ Ya no soporto esta cuarentena sin ti
 ---
 
 autor: Maria Rodes
-titulo: Me quedo contigo
+título: Me quedo contigo
 
 Si me das a elegir
 Entre tú y la riqueza
@@ -482,7 +482,7 @@ Me quedo contigo
 ---
 
 autor: Jorge drexler
-titulo: ya volveran los abrazos
+título: ya volveran los abrazos
 
 a volverán los abrazos,
 los besos dados con calma,
@@ -512,7 +512,7 @@ poniendo codo con codo.
 ---
 
 autor: Camela
-Titulo: Escúchame
+título: Escúchame
 
 Escúchame, compréndelo,
  quédate en casa por favor
@@ -522,7 +522,7 @@ por si me sales al balcón
 ---
 
 autor: camela
-titulo: cuando zarpa el amor
+título: cuando zarpa el amor
 
 Estaremos mejor, si desde casa sales solo al balcón
  para aplaudir y respetarnos con amor 
@@ -532,8 +532,8 @@ Estaremos mejor, si desde casa sales solo al balcón
 
 ---
 
-autor : Duo Dinamico
-titulo: Resistiré
+autor: Duo Dinamico
+título: Resistiré
 
 Cuando pierda todas las partidas
 Cuando duerma con la soledad
@@ -584,7 +584,7 @@ Resistiré, resistiré
 ---
 
 autor: Monica Naranjo
-titulo: Sobreviviré
+título: Sobreviviré
 
 Tengo el ansia de la juventud
 tengo miedo lo mismo que tú
@@ -639,7 +639,7 @@ Aunque me haga daño
 ---
 
 autor: MANUEL VILAS
-titulo: 'LA ESPERA'
+título: LA ESPERA
 
 Ahora ya sabemos que la vida es comer con un amigo en una terraza, ir de librerías, tomar el sol, ver una película en un cine, perderte por una calle desconocida, coger un tren.
 Por eso, cuando la vida regrese, le pediremos menos cosas.
@@ -651,8 +651,8 @@ Cuando ella vuelva, porque volverá, me encontrará bien dispuesto y a la orden.
 
 ---
 
-Autor: ADA SALAS
-titulo: 'BOSQUE'
+autor: ADA SALAS
+título: BOSQUE
 
 Estos
 pájaros
@@ -678,7 +678,7 @@ la belleza.
 
 
 autor:MARIANO PEYROU
-titulo: 'S/T'
+título: S/T
 
 somos como los demás, pero vemos unas líneas recorriéndolo todo
 separándolo todo
@@ -702,7 +702,7 @@ de tanto escuchar a todos los que tenemos dentro
 ---
 
 autor: ANA MERINO
-titulo: 'EL HECHIZO'
+título: EL HECHIZO
 
 Este presente de remolino
 de gotas invisibles,
@@ -724,7 +724,7 @@ y rompan este hechizo.
 ---
 
 autor:FELIPE BENÍTEZ REYES
-titulo: 'EL ENFERMO'
+título: EL ENFERMO
 
 Instalado en la pureza más sola del dolor,
 en un territorio incontaminado
@@ -744,8 +744,8 @@ la pureza más sola del dolor?
 
 ---
 
-autor: LORENZO OLIVÁN:
-titulo: 'LA PIEL ES LO PROFUNDO'
+autor: LORENZO OLIVÁN
+título: LA PIEL ES LO PROFUNDO
 
 Solo el calor
 funde las propiedades de los cuerpos.
@@ -770,7 +770,7 @@ La piel -hoy más que nunca- es lo profundo.
 ---
 
 autor: XAIME MARTÍNEZ
-titulo: 'HORIZON: NEW DAWN'
+título: HORIZON: NEW DAWN
 
 El camino, empinado,
 el año entero está lleno de nieve
@@ -786,7 +786,7 @@ eran las plumas de plumeros de la pampa).
 ---
 
 autor: MARWAN
-titulo: 'UN EXTRAÑO UTENSILIO'
+título: UN EXTRAÑO UTENSILIO
 
 Me llevo a papá al hospital,
 le está costando respirar.
@@ -825,7 +825,7 @@ que se sostiene entre las manos.
 ---
 
 autor: JOAQUÍN PÉREZ AZAÚSTRE
-titulo: 'REPATRIACIÓN'
+título: REPATRIACIÓN
 
 Dile a un padre que suba en ese avión
 sin mirar atrás.
