@@ -23,4 +23,4 @@ The POSTDATA Team, “Poetry Standardization and Linked Open Data”: This proje
 
 All contributed poems retain their individual copyright but are released to the public on a GitHub repository under the terms of a CC-BY 4.0 license.
 
-![ERC POSTDATA](https://lists.office.com/Images/b5587048-a070-43ad-b654-20a31e9b2d99/3f337805-ff7d-4be5-9303-949f8ffa7b25/T7FJDB4UQM4APZ7KWY6TGASQ34/d275b457-5014-4973-b978-f90bf8a59473)
+![ERC POSTDATA](erc-postdata.png)
