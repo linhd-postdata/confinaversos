@@ -5,3 +5,4 @@ langid==1.1.6
 xlrd==1.2.0
 python-slugify==4.0.0
 tqdm==4.45
+pelican==4.2.0
