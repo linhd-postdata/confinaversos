@@ -1,0 +1,28 @@
+{
+    "upload_type": "software", 
+    "creators": [
+        {   
+            "orcid": "0000-0003-3489-2193",
+            "name": "Laura Hernández-Lorenzo"
+        },
+        {   
+            "orcid": "0000-0003-4479-0502",
+            "name": "Leire Leguina Casas"
+        },
+        {   
+            "orcid": "0000-0002-9143-5573",
+            "name": "Javier de la Rosa"
+        },
+        {   
+            "orcid": "0000-0001-5897-1246",
+            "name": "Álvaro Pérez Pozo"
+        },
+        {   
+            "orcid": "0000-0002-2095-4827",
+            "name": "Aitor Díaz Medina"
+        }
+    ],    
+    "license": "Apache-2.0",
+    "title": "Confinaversos",
+    "grants": [{"id":"679528"}]
+}
